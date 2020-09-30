@@ -2,7 +2,7 @@
 
 Go Zomato is a web app to help you find restaurants based on the city you input. Developed with React and Zomato API
 
-Try it yourself https://gozomato.netlify.app
+Try it yourself here: https://gozomato.netlify.app
 
 ## App Flow
 
