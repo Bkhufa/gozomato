@@ -1,0 +1,48 @@
+:root {
+    --background-url: url(https://image.freepik.com/free-photo/flat-lay-arrangement-with-burgers-pizza_23-2148308817.jpg);
+}
+
+.header {
+    padding: 14em 0 5em;
+    color: #fff !important;
+    background: var(--background-url), 
+        radial-gradient(#777, rgb(173, 173, 173));
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.headerText {
+    font-size: 4em;
+    text-align: center;
+    margin: 3rem auto 2rem;
+}
+
+.textCenter {
+    text-align: center;
+    margin: 3rem auto 2rem;
+}
+
+.backgroundWhite {
+    background-color: #fff;
+}
+
+.textBlack {
+    color: #333;
+}
+
+.positionRelative {
+    position: relative;
+}
+
+.citySuggestion {
+    position: absolute;
+    color: #333;
+    background-color: #fff;
+    min-width: 94.6%;
+    z-index: 99;
+    margin: 2px;
+}
+
